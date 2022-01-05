@@ -6,7 +6,7 @@ export function SignIn(){
     const [text, setText] = useState('');
   return(
     <View style={styles.container}>
-    <Text>Testand novamente!</Text>
+    <Text>Testando novamente!</Text>
     
     <TextInput
      style={styles.input}
